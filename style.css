@@ -3,9 +3,10 @@ html {
   width: 100%;
   background-color: #9fd5fe;
   font-style: oblique;
-body{
+  font-size: 30px ;
+body {
     text-align: center;}
-  
+
 img {
-  width: 25%;
+  width: 30%;
 }
